@@ -1,0 +1,39 @@
+.carousel-item{
+    height: 450px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.buy-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bg-1{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    
+
+}
+.bg-2{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    
+}
+.card{
+    padding: 30px 60px;
+    border: none;
+    box-shadow: 5px 5px 10px;
+    margin-top: 20px;
+}
+.header{
+    margin-top: 30px;
+}
+#middle{
+    text-align: center;
+}
+
